@@ -1,4 +1,7 @@
 # gitignore for C++
+
+.ionide/*
+
 # Compiled Object files
 *.slo
 *.lo
