@@ -1,5 +1,4 @@
-int getUserValue();
-void printAddition(int value1, int value2);
+#include "io.h"
 
 int main()
 {	
