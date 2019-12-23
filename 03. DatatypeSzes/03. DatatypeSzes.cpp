@@ -1,7 +1,4 @@
 #include <iostream>
-#include <stddef.h>
-
-
 
 int main()
 {
